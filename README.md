@@ -31,12 +31,12 @@ And execute `gardenia` then start installing.
 
 ### Options
 
-option | default value     | explanation
---     | --                | --
-c      | ~/.cache/gardenia | Cache directory path
-e      | false             | Clean not       managed plugins
-f      | false             | Force reinstall plugins
-l      | false             | Only  list      plugins to install
+| Option | Default value     | Explanation                        |
+| ------ | ----------------- | ---------------------------------- |
+| c      | ~/.cache/gardenia | Cache directory path               |
+| e      | false             | Clean not       managed plugins    |
+| f      | false             | Force reinstall plugins            |
+| l      | false             | Only  list      plugins to install |
 
 Install:
 --------
